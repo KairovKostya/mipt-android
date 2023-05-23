@@ -1,4 +1,4 @@
-package com.kairov.firstproject
+package com.phystech.edu.mipt
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.kairov.firstproject
+package com.phystech.edu.mipt
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.kairov.firstproject", appContext.packageName)
+        assertEquals("com.phystech.edu.mipt", appContext.packageName)
     }
 }
